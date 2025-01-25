@@ -23,7 +23,7 @@ This project focuses on creating a high-quality tourism dataset for Saudi Arabia
 - Geographical Insights: Key tourist clusters are located in Jeddah, Riyadh, and Dammam.
 - Ratings: Religious sites and landmarks received the highest density of top ratings.
 
-Applications
+## Applications
 This dataset can be used for:
 
 - Developing recommendation systems for personalized tourism experiences.
